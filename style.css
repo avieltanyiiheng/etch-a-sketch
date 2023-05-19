@@ -1,0 +1,25 @@
+.sketchBox {
+  border-style: solid;
+  border-width: 1px;
+  width: 16px;
+  height: 16px;
+  flex-basis: 16px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sketchBoxMouseover {
+  border-style: solid;
+  border-width: 1px;
+  width: 16px;
+  height: 16px;
+  flex-basis: 16px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  background-color: black;
+}
